@@ -11,7 +11,7 @@ This project is a **House Price Prediction** model built using **Machine Learnin
 - [System Design](#system-design)
 - [Limitations](#limitations)
 - [Future Enhancements](#future-enhancements)
-- [Screenshots](#screenshots)
+- [Screenshots](#images/ui.jpg)
 - [How to Run](#how-to-run)
 - [Author](#author)
 
