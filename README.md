@@ -112,5 +112,6 @@ Illustrates how code files and components are structured in the project.
 ## 👤 Author
 
 - Udhav Rameshwar Kardile  
-- MCA (2023–2024) – CDAC / Savitribai Phule Pune University
+- – PG Diploma in Big Data Analytics, CDAC Mumbai
+- - Masters of Computer Applications, Savitribai Phule Pune University
 
