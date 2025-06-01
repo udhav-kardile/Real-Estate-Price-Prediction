@@ -11,7 +11,8 @@ This project is a **House Price Prediction** model built using **Machine Learnin
 - [System Design](#system-design)
 - [Limitations](#limitations)
 - [Future Enhancements](#future-enhancements)
-- [Screenshots](#images/ui.jpg)
+- [Screenshots](#screenshots)
+- [System Architecture](#system-architecture)
 - [How to Run](#how-to-run)
 - [Author](#author)
 
@@ -81,12 +82,25 @@ The project includes:
 - Enhanced UI with dashboards (using Streamlit/React)
 - Add property images and price estimate visualizations
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-Include some screenshots of your:
-- Input form
-- Output predictions
-- Architecture diagrams
+### 🔘 Input UI
+![Input UI](images/ui.jpg)
+
+### 📊 Predicted Price Output
+![Prediction Output](images/predic.png)
+
+### 🗺️ System Architecture
+
+#### 1. Deployment Diagram
+Shows how Flask backend, ML model, and UI are hosted and interact.
+
+![Deployment](images/deployment-diagram.png)
+
+#### 2. Module Hierarchy
+Illustrates how code files and components are structured in the project.
+
+![Modules](images/module-hierarchy.png)
 
 ## ▶️ How to Run
 
