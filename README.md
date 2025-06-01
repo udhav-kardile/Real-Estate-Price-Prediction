@@ -31,7 +31,7 @@ The real estate market can be confusing and inconsistent due to varying price qu
 - Python
 - Pandas, NumPy, Scikit-learn
 - Flask (for UI integration)
-- HTML/CSS (basic front-end)
+- HTML/CSS/JS (basic front-end)
 - SQLite (or CSV for data)
 - Visual diagrams via StarUML / Draw.io
 
@@ -112,6 +112,6 @@ Illustrates how code files and components are structured in the project.
 ## 👤 Author
 
 - Udhav Rameshwar Kardile  
-- – PG Diploma in Big Data Analytics, CDAC Mumbai
+- - PG Diploma in Big Data Analytics, CDAC Mumbai
 - - Masters of Computer Applications, Savitribai Phule Pune University
 
