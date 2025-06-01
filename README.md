@@ -85,7 +85,7 @@ The project includes:
 ## 🖼️ Screenshots
 
 ### 🔘 Input UI
-![Input UI](images/ui.jpg)
+![Input UI](images/ui.png)
 
 ### 📊 Predicted Price Output
 ![Prediction Output](images/predic.png)
