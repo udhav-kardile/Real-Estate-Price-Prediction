@@ -28,12 +28,19 @@ The real estate market can be confusing and inconsistent due to varying price qu
 
 ## 🧠 Tech Stack
 
-- Python
-- Pandas, NumPy, Scikit-learn
-- Flask (for UI integration)
-- HTML/CSS/JS (basic front-end)
-- SQLite (or CSV for data)
-- Visual diagrams via StarUML / Draw.io
+| Tool/Library     | Purpose                                |
+|------------------|----------------------------------------|
+| Python           | Core programming language              |
+| Pandas, NumPy    | Data cleaning & manipulation           |
+| Matplotlib, Seaborn | Visual Exploratory Data Analysis    |
+| Scikit-learn     | Model building, evaluation, and tuning |
+| XGBoost, RandomForest | Ensemble regression models        |
+| Flask            | Web framework for model deployment     |
+| HTML/CSS, Jinja2 | UI design for the frontend             |
+| AWS EC2          | Hosting and deployment                 |
+| Git & GitHub     | Version control and project tracking   |
+
+---
 
 ## ✨ Features
 
@@ -61,6 +68,14 @@ Preprocessing includes:
 - **Algorithm**: Linear Regression
 - **Training Process**: Trained on historical data using train-test split and evaluated via RMSE & R² score.
 - **Feature Scaling**: Applied where necessary to normalize the input data.
+
+## 📈 Results
+| Model             | R² Score | RMSE            |
+| ----------------- | -------- | --------------- |
+| Linear Regression | 0.77     | \~1.25 Lakh     |
+| Random Forest     | 0.86     | \~0.89 Lakh     |
+| XGBoost (Tuned)   | **0.88** | **\~0.75 Lakh** |
+🚀 Best performance achieved using XGBoost with hyperparameter tuning.
 
 ## 🛠️ System Design
 
