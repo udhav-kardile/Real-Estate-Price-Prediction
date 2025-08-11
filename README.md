@@ -1,6 +1,6 @@
-# 🏡 House Price Prediction System
+# 🏡 Real Estate Price Prediction System
 
-This project is a **House Price Prediction** model built using **Machine Learning**. The goal is to assist home buyers, sellers, and real estate professionals in estimating fair property prices using data-driven techniques rather than relying solely on agents or subjective judgment.
+This project is a **Price Prediction** model built using **Machine Learning**. The goal is to assist home buyers, sellers, and real estate professionals in estimating fair property prices using data-driven techniques rather than relying solely on agents or subjective judgment.
 
 ## 📌 Table of Contents
 - [Overview](#overview)
